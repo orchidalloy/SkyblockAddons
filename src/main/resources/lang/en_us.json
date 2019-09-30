@@ -68,7 +68,8 @@
     "makeBackpackInventoriesColored": "Color Inventories",
     "avoidBreakingBottomSugarCane": "Avoid Breaking Bottom Sugar Cane",
     "replaceRomanNumeralsWithNumbers": "Replace Roman Numerals on Items",
-    "organizeLongEnchantmentLists": "Organize Long Enchantment Lists"
+    "organizeLongEnchantmentLists": "Organize Long Enchantment Lists",
+	"soundIndicatorForFishing": "Sound Indicator for Fishing"
   },
   "messages": {
     "dropConfirmation": "Drop this item again to confirm!",
